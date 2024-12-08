@@ -1,0 +1,20 @@
+SVM with polynomial kernel (degree=8, original MNIST dataset) 
+time to run this part: 19.260s 
+Training: 
+accuracy: 95.000% 
+Validation: 
+accuracy: 0.000% 
+Test: 
+accuracy: 51.600% 
+
+SVM with polynomial kernel (degree=8) 
+time to run this part: 16.332s 
+SVM with polynomial kernel (degree=8) 
+time to run this part: 39.849s 
+Training: 
+accuracy: 95.000% 
+Validation: 
+accuracy: 0.000% 
+Test: 
+accuracy: 51.600% 
+

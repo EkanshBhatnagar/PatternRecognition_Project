@@ -1,0 +1,3 @@
+model,number_of_samples,test_accuracy
+RESNET50,100,22.599999606609344
+RESNET50,200,21.99999988079071
